@@ -6,14 +6,10 @@ This repository is designed as a learning resource for getting familiar with [Fl
 
 ## Structure
 
-The repository now contains a single project focusing on learning how to use Flet. The project is set up with a single virtual environment in the main folder.
+The repository now contains small projects to learn how to use Flet. The project is set up with a single virtual environment in the main folder.
 
-## Getting Started
+## Learning Sources
 
-### Setting Up the Environment
+The folder 1,2 and 3 are based on tutorials from the YouTube channel [Indently](https://www.youtube.com/@Indently)
 
-1. **Clone the Repository**
 
-   ```bash
-   git clone <URL-to-this-repository>
-   cd FLET
